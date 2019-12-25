@@ -39,11 +39,12 @@ e a construção dessa tabela usando - > |
 
 ---
 
-3. Avançado
+## 3. Avançado
+
 > Alterar a mensagem do último commit realizado no git.
 
 Para alterar a mensagem do último commit basta usar o comando 
 ```properties
 git commit --amend -m "nova mensagem ou mensagem corrigida"
 ```
-
+![terminal-alterando-msg-commit](terminalDone.png)
