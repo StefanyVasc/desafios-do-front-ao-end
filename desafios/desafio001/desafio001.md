@@ -15,6 +15,8 @@ Tema terminal: [Drácula](https://draculatheme.com/)
 
 Tema ZSH: [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
+---
+
 ## 2. Médio
 > Use outros tipos de marcação de doc Markdown diferentes das que foram apresentados na aula. 
 
@@ -31,5 +33,17 @@ na construção dos markdown foram utilizadas as seguintes marcações
 | `texto`              | Código simples    |
 | ``` bloco codigo ``` | Bloco de Código   |
 | >                    | Citação           |
+| ---                  | Separador         |
 
+e a construção dessa tabela usando - > | 
+
+---
+
+3. Avançado
+> Alterar a mensagem do último commit realizado no git.
+
+Para alterar a mensagem do último commit basta usar o comando 
+```properties
+git commit --amend -m "nova mensagem ou mensagem corrigida"
+```
 
