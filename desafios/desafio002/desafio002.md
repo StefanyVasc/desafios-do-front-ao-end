@@ -14,7 +14,7 @@
 ## 2. Intermediário
 > Mudar as fontes dos itens do header para a fonte indicada no layout do zeplin;
 
-[Link do repositório com o desafio concluído](../../aulas/001.mdhttps://github.com/StefanyVasc/loja-fone/commit/248a077b7740e49410be88ef4d07bace8e160fa3)
+[Link do repositório com o desafio concluído](https://github.com/StefanyVasc/loja-fone/commit/248a077b7740e49410be88ef4d07bace8e160fa3)
 
 ## 3. Avançado
 > Posicionar corretamente o h1 e os a's de acordo com o layout do zeplin; 
