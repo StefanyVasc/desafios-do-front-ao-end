@@ -27,4 +27,4 @@
 ## 4. Extra :white_check_mark:
 > Explicar do meu jeito o que eu consegui entender da aula 003. Pode ser via telegram ou via Medium.
 
-:link: [link do Medium com a minha explicação]()
+:link: [link do Medium com a minha explicação](https://medium.com/stefany-s%C3%A1/posicionamento-de-elementos-na-tela-com-css-float-e-respiros-6ba833cd2c6d?sk=20d47c6c7f6bfc7c096e3bd3950b22e8)
