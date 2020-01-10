@@ -7,18 +7,16 @@
 
 
 ## 1. Básico :ballot_box_with_check:
->  Qual são os brakepoints que precisamos criar para ficar o layout começar a ficar responsivo, na parte da descrição do produto. 
+>  Quais são os brakepoints que precisamos criar para ficar o layout começar a ficar responsivo, na parte da descrição do produto. 
 
 
-
-:memo: []()
+:memo: **O layout quebra nos pontos 1323px, 720px, 520px, 470px, 320px**
 
 ## 2. Intermediário :ballot_box_with_check:
-> Como disponibilizar os elementos após descobrir todos os brakepoints. Pensar antes em como ficará o ayout no responsivo. 
+> Como disponibilizar os elementos após descobrir todos os brakepoints. Pensar antes em como ficará o layout no responsivo. 
 
 
 
-:memo: []()
 
 ## 3. Avançado :ballot_box_with_check:
 > Implementar o desafio Básico e o desafio Intermediário, da forma que você pensou.  
