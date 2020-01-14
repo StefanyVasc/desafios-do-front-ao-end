@@ -21,4 +21,7 @@
 ## 3. Avançado :ballot_box_with_check:
 > A versão mobile funciona no firefox, mas em outros browsers não funciona direito (ele permanece na versão desktop sem aplicar o responsivo dos @media). **Arrumar isso e explicar o porquê desse comportamento **
 
+*dica: uma linha no html resolve*
+
+
 :memo: []()
