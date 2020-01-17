@@ -8,7 +8,7 @@
 > Escrever um post sobre pixel fisico e pixel do css, explicando as diferenças de comportamento entre eles.
 
 
-:memo: [Link do repositório aqui]()
+:memo: [Pixel fisico e CSS pixel, o que são e quais são suas diferenças?](https://medium.com/stefany-s%C3%A1/pixel-f%C3%ADsico-e-css-pixel-2bafaa492474)
 
 
 
