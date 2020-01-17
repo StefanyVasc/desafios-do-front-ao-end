@@ -1,28 +1,15 @@
 # Desafio 012 :books:
 
-1. Básico
-2. Intermediário 
-3. Avançado
+1. Único
 
 
 
-## 1. Básico :ballot_box_with_check:
-
-
-
-:memo: [Link do repositório aqui]()
-
-## 2. Intermediário :ballot_box_with_check:
+## 1. Único :ballot_box_with_check:
+> Escrever um post sobre pixel fisico e pixel do css, explicando as diferenças de comportamento entre eles.
 
 
 :memo: [Link do repositório aqui]()
 
-
-## 3. Avançado :ballot_box_with_check:
-
-
-
-:memo: [Link do repositório aqui]()
 
 
 
