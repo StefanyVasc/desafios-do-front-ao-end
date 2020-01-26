@@ -5,19 +5,9 @@
 3. Avançado
 
 ## 1. Básico :ballot_box_with_check:
-
-
-
-:memo: [Link do repositório aqui]()
-
-## 2. Intermediário :ballot_box_with_check:
-
+> Em determinado tamanho de tela o coração some, você deve posicionar o coração à esquerda do título ou em algum lugar de sua preferência. 
 
 
 :memo: [Link do repositório aqui]()
 
-## 3. Avançado :ballot_box_with_check:
 
-
-
-:memo: [Link do repositório aqui]()
