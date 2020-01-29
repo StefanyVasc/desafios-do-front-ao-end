@@ -20,6 +20,7 @@
   ![campo de busca fechado](challenge017-intermediate-searchoff.png)
 
 - campo de busca expandido depois do clique.
+
   ![campo de busca fechado](challenge017-intermediate-searchon.png)
 
 ## 3. Avançado :ballot_box_with_check:
