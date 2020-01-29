@@ -7,11 +7,11 @@
 ## 1. Básico :ballot_box_with_check:
 
 > Pôr o ícone da busca. A imagem está no iconfinder
-:memo: [Link do repositório aqui]()
+:memo: [Link do repositório aqui](https://github.com/StefanyVasc/loja-fone/commit/d7a98ac37d52fdcf3056da388f9687d0eabbcd99)
 
 ## 2. Intermediário :ballot_box_with_check:
 
-> Fazer o click só funcionar emcima da lupa
+> Fazer o click só funcionar encima da lupa
 
 :memo: [Link do repositório aqui]()
 
