@@ -17,7 +17,7 @@
 :memo: [Link do repositório aqui](https://github.com/StefanyVasc/loja-fone/commit/f64ac8a7ff9524396f3d6e56754f3d27303d9b46)
 
 - campo de busca encolhido antes do clique
-  ![encolhido](challenge017-intermediate-searchoff.png)
+  ![encolhido](off.PNG)
 
 - campo de busca expandido depois do clique.
 
