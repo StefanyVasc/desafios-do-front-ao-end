@@ -21,7 +21,7 @@
 
 - campo de busca expandido depois do clique.
 
-  ![expandido](challenge017-intermediate-searchon.png)
+  ![expandido](on.PNG)
 
 ## 3. Avançado :ballot_box_with_check:
 
