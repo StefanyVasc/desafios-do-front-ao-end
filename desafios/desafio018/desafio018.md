@@ -7,7 +7,7 @@
 
 > Em algum momento o menu some (335px), acrescentar o menu no lado ESQUERDO, acima da busca. EM formato de menu hamburguer.
 
-:memo: [Link do repositório aqui]()
+:memo: [Link do repositório aqui](https://github.com/StefanyVasc/loja-fone/commit/3b84f22644e52c78e9335ea3b7cab107940c3510)
 
 
 ## 2.Avançado :ballot_box_with_check:
@@ -16,4 +16,4 @@
 
 **Tirar o scroll horizontal - quando vaza o tamanho de um elemento, aquele elemento é escondido.  Uma propriedade do CSS é responsável por  arrumar isso.** 
 
-:memo: [Link do repositório aqui]()
+:memo: [Link do repositório aqui](https://github.com/StefanyVasc/loja-fone/commit/e6788c644ae17be298b2b39ef7c9cb5ecef125ae)
