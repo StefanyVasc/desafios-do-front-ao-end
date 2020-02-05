@@ -9,3 +9,5 @@
 :memo: [Link do repositório aqui](https://github.com/StefanyVasc/loja-fone/commit/4f734757d5a3f7e2b02307adac0845ee13f8b999)
 
 
+![challenge 019](challenge-unique-019.png)
+
