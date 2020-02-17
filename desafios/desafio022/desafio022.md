@@ -22,4 +22,4 @@
 > Organizar o código, já que haverá replicações... procurar isolar o que deve ser isolado.
 
 
-:memo: [Link do repositório aqui]()
+:memo: [Link do repositório aqui](https://github.com/StefanyVasc/memory-game/commit/48024496171b2b2798bdc3de5e465fbe20c3b600)
