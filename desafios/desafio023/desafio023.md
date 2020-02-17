@@ -6,7 +6,7 @@
 
 > Pegar o evento de clique nos cards e retornar algo no console.
 
-obg: bubbling - > podemos dizer que eventos JavaScript borbulham, no sentido de que são disparados por ação em elementos descendentes do elemento a que são atrelados.
+obs: **bubbling** -> podemos dizer que eventos JavaScript borbulham, no sentido de que são disparados por ação em elementos descendentes do elemento a que são atrelados.
 
 :memo: [Link do repositório aqui](https://github.com/StefanyVasc/memory-game/commit/09b698c0c8c60ff8c5ff907ed53fd64a75c0c6de)
 
