@@ -20,6 +20,6 @@
 *Dica: funcionalidades do javascript moderno... YouTube CollabCode*
 
 
-:memo: [Link do repositório aqui]()
+:memo: [Link do repositório aqui](https://github.com/StefanyVasc/memory-game/commit/40b59ba312be0640ca87795a1f98799ab85f8b69)
 
 
