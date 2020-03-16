@@ -8,7 +8,7 @@
 > Ao clicar em dois cards esperar um tempo (entre 2 ou 3 segundos) desvirar para o gueio. Esse comportamento deve acontecer acertando ou errando os cards.
 
 OBS: Só pode ter dois cards virados por vez, não pode ter 3 cards ou mais virados de uma só vez.
-:memo: [Link do repositório aqui]()
+:memo: [Link do repositório aqui](https://github.com/StefanyVasc/memory-game/commit/735af7b70c2e1213a3324c4b42246dcb489a1bdb)
 
 
 
