@@ -13,13 +13,13 @@ Dica #02: Como testar se você tem acesso as funções e variáveis do arquivo..
 
 DIca #03: Lembrar que quando a função memoryCard() alguma coisa tem que ser exposta, mas como fazer isso?
 
-:memo: [Link do repositório aqui]()
+:memo: [Link do repositório aqui](https://github.com/StefanyVasc/memory-game/commit/316b9e59b5b30223dfd18000d367dfb8bd2fc38d)
 
 ## 2. Avançado :ballot_box_with_check:
 
 >  Pensar no que fazer com o wrapper... se eu devo isolá-lo... pensar em como ele funciona. 
 >  Dentro do memory card existe uma função que checa se você acertou os cards... Isso deveria ser função do componente memory-card, jogo ou cards wrapper? Repensar a função chekingIfRight().
 
-:memo: [Link do repositório aqui]()
+
 
 
