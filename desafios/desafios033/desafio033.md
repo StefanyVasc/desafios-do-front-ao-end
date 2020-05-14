@@ -5,7 +5,8 @@
 
 ##  Básico e  Intermediário :ballot_box_with_check:
 
-> Adicionar o html do botão fluante (Start)
+> Adicionar o html do botão fluante (Start) e 
+
 > Posicionar o botão flutuante Start ao centro por cima de um dos cards. Fazer o CSS corretamente. 
 
 
