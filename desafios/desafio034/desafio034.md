@@ -1,4 +1,4 @@
-# Desafio 033 :books:
+# Desafio 034 :books:
 
 1. Básico
 2. Intermediário
@@ -7,7 +7,6 @@
 ##  1. Básico :ballot_box_with_check:
 
 > Colocar um elemento (uma layer) entre o botão Start e o game que impeça o usuário de jogar, com uma transparencia.  
-
 
 :memo: [Link do repositório aqui](https://github.com/StefanyVasc/memory-game/commit/8581f244fc1c93ee4ea951e9a691f7d83bede4e6)
 
