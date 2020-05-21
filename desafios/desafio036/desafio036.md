@@ -10,6 +10,6 @@ Dicas:
 - Usar a propriedade *transform* com o valor *scale*
 - Ele irá descentralizar quando "crescer" dar uma olhada na propriedade *transform-origin*
 
-:memo: [Link do repositório aqui]()
+:memo: [Link do repositório aqui](https://github.com/StefanyVasc/memory-game/commit/4953e76232aed780638b536e7c252a32030154b1)
 
 
