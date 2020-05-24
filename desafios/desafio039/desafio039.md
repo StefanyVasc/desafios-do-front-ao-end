@@ -1,24 +1,24 @@
-# Desafio 039  💡 🤔
+# Desafio 039  🤔💡
 
 
-###  :black_small_square: Básico  :heavy_check_mark:
+###  ▪️ Básico  ✔️
 
->  
+> Fazer o HTML e o CSS da logo, sem se preocupar com o posicionamento correto, apenas colocar na tela.
 
-:link: [Link do repositório aqui]()
-
-
-
-### :black_small_square: Intermediário :heavy_check_mark: 
-
-> 
-
-:link: [Link do repositório aqui]() 
+🔗 [Link do repositório aqui]()
 
 
 
-### :black_small_square: Avançado :heavy_check_mark:
+### ▪️ Intermediário ✔️ 
 
-> 
+> Fazer o component|object do título, deixando o conteúdo dinâmico, pois será usado no LogIn.
 
-:link: [Link do repositório aqui]()
+🔗 [Link do repositório aqui]() 
+
+
+
+### ▪️ Avançado ✔️
+
+> Posicionar a Logo, qual a forma mais fácil pra posicionar? 
+
+🔗 [Link do repositório aqui]()
