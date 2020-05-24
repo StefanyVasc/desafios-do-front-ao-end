@@ -1,28 +1,24 @@
-# Desafio 039 :top:
-
-1. Básico
-2. Intermediário
-3. Avançado
+# Desafio 039  💡 🤔
 
 
-##  1. Básico :ballot_box_with_check:
+###  :black_small_square: Básico  :heavy_check_mark:
 
 >  
 
-:point_right: [Link do repositório aqui]()
+:link: [Link do repositório aqui]()
 
 
 
-## 2. Intermediário :ballot_box_with_check: 
-
-> 
-
-:point_right: [Link do repositório aqui]()
-
-
-
-## 3. Avançado :ballot_box_with_check:
+### :black_small_square: Intermediário :heavy_check_mark: 
 
 > 
 
-:point_right: [Link do repositório aqui]()
+:link: [Link do repositório aqui]() 
+
+
+
+### :black_small_square: Avançado :heavy_check_mark:
+
+> 
+
+:link: [Link do repositório aqui]()
