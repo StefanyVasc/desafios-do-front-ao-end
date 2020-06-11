@@ -1,29 +1,25 @@
-# Desafio 044  🤔💡
+# Desafio 045  🤔💡
 
 
 ###  ▪️ Básico  ✔️
 
-> Implementar o olhinho do password
-
-Dica: o olho tem dois estados (com class ou com atributo no css[opacity])
+> Fazer funcionar a troca para a página de game. (mapear e criar a rota)
 
 
-🔗 [Link do repositório aqui](https://github.com/StefanyVasc/memory-game/commit/eb73e123a07dccf020030ec0408d5c6915decfd2)
+🔗 [Link do repositório aqui]()
 
 
 
 ### ▪️ Intermediário ✔️ 
 
-> No momento do clique no olhinho você deve mostrar o conteúdo do password ou esconder
+> Criar uma pagina de 404 (redirecionar quando não existir a página solicitada)
 
-🔗 [Link do repositório aqui](https://github.com/StefanyVasc/memory-game/commit/9b0cf34eb3f6968d3d1c9492b94394171748b381) 
+🔗 [Link do repositório aqui]() 
 
 
 
 ### ▪️ Avançado ✔️
 
-> Fazer a troca de pages login/signup de acordo com a navegação de botões
-
-obs: não conseegui fazer 👎
+> Resolver o bug da navegação, não posso ter o refresh da página mas precisa mudar de página
  
 🔗 [Link do repositório aqui]()
