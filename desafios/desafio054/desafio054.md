@@ -1,24 +1,21 @@
-# Desafio 055 :books:
+# Desafio 054 :books:
 
-<p align="center">Tic-Tac-Toe Desafio final</p> 
-- Ao acabar os desafios enviar uma pull request para o [repositório](https://github.com/collabcodetech/desafio-jogo-da-velha)
-- Criar a branch com o seu nomeDaPasta
-- Postar o desafio na sala do Discord
 
 ###  ▪️ Básico  ✔️
 
-> Fazer a transição de forma animada do Mostrar Eventos 
+> Ao clicar no HashtagGame alternar entre o Player X e o Player O
 
 
-🔗 [Link do repositório aqui]()
+🔗 [Link do repositório aqui](https://github.com/StefanyVasc/tic-tac-toe/commit/c890e46e4814f8291b337e20e78ae3a3cff876ee)
 
 
 
 ### ▪️ Intermediário ❌ 
 
-> Voltar no tempo ao clicar em um dos eventos das jogadas
+> Enquanto clicar no HashtagGame aparecer no EventHistory o histórico de eventos de acordo com cada Player clicado.
 
-- AoSe eu clicar em um dos eventos passados devo retornar ao ponto do evento
+**Não consegui**
+
 
 
 🔗 [Link do repositório aqui]() 
@@ -27,7 +24,10 @@
 
 ### ▪️ Avançado ✔️
 
-> Definir o estado final do jogo de acordo com as condições do jogo(empate, perdeu e ganhou e qual player ganhou mostrar na tela)
+> Fazer o responsivo de todas as telas 
+> Fazer o comportamento de hover do mouse
+
+**Está incompleto!**
 
  
-🔗 [Link do repositório aqui]()
+🔗 [Link do repositório aqui](https://github.com/StefanyVasc/tic-tac-toe/commit/e7482611ced824c52a46b8fdee3ea01dc941b25d)
