@@ -7,7 +7,7 @@
 
 ###  ▪️ Básico  ✔️
 
-> Fazer a transição de forma animada do Mostrar Eventos
+> Fazer a transição de forma animada do Mostrar Eventos 
 
 
 🔗 [Link do repositório aqui]()
@@ -18,6 +18,7 @@
 
 > Voltar no tempo ao clicar em um dos eventos das jogadas
 
+- AoSe eu clicar em um dos eventos passados devo retornar ao ponto do evento
 
 
 🔗 [Link do repositório aqui]() 
@@ -26,7 +27,7 @@
 
 ### ▪️ Avançado ✔️
 
-> Definir o estado final do jogo de acordo com as condições do jogo(empate, perdeu e ganhou e qual player ganhou)
+> Definir o estado final do jogo de acordo com as condições do jogo(empate, perdeu e ganhou e qual player ganhou mostrar na tela)
 
  
 🔗 [Link do repositório aqui]()
