@@ -7,7 +7,7 @@
 > Editar o texto **"Edit src/App.js and save to reload"** para o nome do projeto
 
 
-🔗 [Link do repositório aqui]()
+🔗 [Link do repositório aqui](https://github.com/StefanyVasc/seek-business/commit/01ab66d996a4b2624232cf118f42bd6e9e0d3124)
 
 
 
@@ -17,7 +17,7 @@
 > Usar o GitKraken
 
 
-🔗 [Link do repositório aqui]() 
+🔗 [Link do repositório aqui](https://github.com/StefanyVasc/seek-business/commit/01ab66d996a4b2624232cf118f42bd6e9e0d3124) 
 
 
 
